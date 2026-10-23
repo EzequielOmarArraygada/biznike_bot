@@ -1,0 +1,783 @@
+[
+  {
+    "zona": "ONLINE",
+    "titulo": "MARE PAPEL",
+    "descripcion": "20% de descuento en cursos online",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/1%20mare%20papel.png",
+    "codigoDescuento": "DESAYUNO",
+    "enlaces": [
+      "https://www.instagram.com/marepapel",
+      "mailto:marepapeltaller@gmail.com"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "BLACK BUBBLEGUM",
+    "descripcion": "20% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/2%20black%20bubblegum.png",
+    "codigoDescuento": "DESAYUNO",
+    "enlaces": [
+      "https://blackbubblegum.mitiendanube.com/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "OSE JABONES",
+    "descripcion": "20% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/3%20ose.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://ose.empretienda.com.ar/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "CANNIS",
+    "descripcion": "15% de descuento en gestión reprocan",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/4%20cannis.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://cannis.org/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "PASIONARIA COSMÉTICA",
+    "descripcion": "15% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/5%20%20PASIONARIA%20COSMETICA.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "http://pasionarianatural.empretienda.com.ar/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "BROTE ZAPAS",
+    "descripcion": "15% de descuento en calzado / 20% de descuento en billeteras",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/6%20brote.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/541138800949"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "GORRAS PULSO",
+    "descripcion": "20% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/7%20gorras%20pulso.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://gorraspulso.com/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "NOT BELSI",
+    "descripcion": "20% de descuento en cerámicas y 15% de descuento en pedidos personalizados",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/8%20NOT%20BELSI.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/notbelsi/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "CODEARTE - TALLER DE DESARROLLO DE VIDEOJUEGOS",
+    "descripcion": "25% de descuento en cursos y talleres",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/26%20CODEARTE.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "http://codearte.com.ar/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "MIAGALA DECO",
+    "descripcion": "45% off en mesas tulip fibra de vidrio en efectivo",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/27%20MIAGALA.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "http://www.instagram.com/miagala",
+      "http://www.miagala.com/",
+      "mailto:deco@miagala.com"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "CHACRA",
+    "descripcion": "15% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/28%20CHACRA.png",
+    "codigoDescuento": "DESAYUNO",
+    "enlaces": [
+      "https://tiendachacra.com/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "SILVERMOON",
+    "descripcion": "15% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/29%20SILVERMOON.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.silvermoon.com.ar/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "NPC MINIATURAS",
+    "descripcion": "10% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/30%20NPC.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/npcminiaturas/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "CDL QUÍMICA",
+    "descripcion": "20% de descuento para suscriptores",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/31%20CDL%20QUIMICA.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "http://www.cdlquimica.com.ar",
+      "tel:541158354812"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "CLASES DE JAPONÉS",
+    "descripcion": "15% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/34%20clases%20japones.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "tel:541162699315",
+      "http://www.instagram.com/chemi.sensei"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "MOSCA REMERAS",
+    "descripcion": "10% de descuento / 15% a partir de 2 artículos",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/35%20mosca%20remeras.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "http://www.moscaremeras.com/",
+      "https://www.instagram.com/moscaremeras"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "GIRGOLEANDO - LABORATORIO DE HONGOS COMESTIBLES",
+    "descripcion": "20% de descuento en todos los productos",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/36%20girgoleando.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://girgoleando.mitiendanube.com/",
+      "https://www.instagram.com/girgoleando/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "ZEMILLAR - LIMPIEZA ESPIRITUAL Y ENERGÉTICA",
+    "descripcion": "50% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/37%20zemillar.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://zemillar.my.canva.site/",
+      "https://www.instagram.com/zemillar/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "GABRIEL SCHUBERT - PRODUCCIÓN Y MASTERING DE MÚSICA",
+    "descripcion": "20 % de descuento servicio de Producción/Mezcla/Mastering de música",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/60.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:schubertgab@gmail.com",
+      "https://www.instagram.com/gabi_schubert_"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "ESPACIO PSI - ATENCIÓN PSICOLÓGICA ONLINE",
+    "descripcion": "ARANCEL COMUNITARIO PARA SUSCRIPTORES",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/61.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "tel:54415772969"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "CEPES EDICIONES - Editorial de poesía, narrativa, política y no ficción",
+    "descripcion": "20% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/62.png",
+    "codigoDescuento": "BENEFICIOPDB",
+    "enlaces": [
+      "mailto:cepesediciones@gmail.com",
+      "https://www.instagram.com/cepesediciones/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "IMPROCAD 3D",
+    "descripcion": "20% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/63.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/541164184072",
+      "https://www.instagram.com/improcad.3d/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "WAYNE REMERAS",
+    "descripcion": "15% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/64.png",
+    "codigoDescuento": "PDB",
+    "enlaces": [
+      "https://www.wayneremeras.com/",
+      "https://www.instagram.com/wayneremeras/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "MAILI DIBUJA",
+    "descripcion": "20% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/65.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/542477662916",
+      "https://www.instagram.com/mailidibuja/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "BRUCIA ESTAMPERÍA",
+    "descripcion": "15% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/66.png",
+    "codigoDescuento": "PDB",
+    "enlaces": [
+      "https://www.brucia.com.ar/",
+      "https://www.instagram.com/bruciaestamperia/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "ALKIMIA - DESARROLLO DE PÁGINAS WEB",
+    "descripcion": "15% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/67.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.alkimia.website/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "ÁMBAR VIOLETA DIGITAL - GRÁFICA",
+    "descripcion": "10% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/68.png",
+    "codigoDescuento": "PDB",
+    "enlaces": [
+      "http://ambarvioletadigital.com.ar/",
+      "https://www.instagram.com/ambarvioletadigital/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "ATENCIÓN PSICOLÓGICA PARA ADULTOS",
+    "descripcion": "15% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/69.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/543445441006"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "CLASES DE INGLÉS",
+    "descripcion": "20% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/70.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/542213038702",
+      "https://www.instagram.com/aggusdagostino/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "CLASES DE TROMPETA",
+    "descripcion": "15% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/71.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:nachointa@gmail.com",
+      "https://www.instagram.com/nacho_ini/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "QUIMERA ECOTIENDA",
+    "descripcion": "15% DE DESCUENTO ACUMULABLE CON PROMOCIONES",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/72.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/542494340296",
+      "https://www.instagram.com/quimera_ecotienda/"
+    ]
+  },
+  {
+    "zona": "ONLINE",
+    "titulo": "EL GATO Y LA CAJA",
+    "descripcion": "10% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/73.png",
+    "codigoDescuento": "GATOPDB",
+    "enlaces": [
+      "https://eglc.ar/PDB",
+      "https://www.instagram.com/elgatoylacaja"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "LOOK IN GARAGE / VINTAGE",
+    "descripcion": "30% de descuento en todo el local",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/9%20look%20in%20garage.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.google.com/maps/search/?api=1&query=Gascon%201326%2C%20Palermo%2C%20CABA",
+      "https://www.instagram.com/lookingarage/?hl=es-la"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "CECILIA MENDEZ / CLASES DE CANTO",
+    "descripcion": "15% de descuento en clases individuales",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/10%20cecilia%20clases%20de%20canto.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:info@cecimendez.com"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "ALCATRAZ - SHAVE & CO",
+    "descripcion": "20% de descuento en corte de pelo",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/11%20ALCATRAZ.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/alcatrazshavecompany/",
+      "https://wa.me/541170380031"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "ATAQUE DE PÁNICO TEATRO",
+    "descripcion": "10% en todas las producciones y los talleres",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/12%20ataque%20de%20panico.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:atakedepanicoteatro@gmail.com"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "SANTA RITA ESTUDIO / COSMÉTICA",
+    "descripcion": "20% de descuento en todos los servicios",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/13%20santa%20rita.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/santarita.estudio/",
+      "https://wa.me/541127317378"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "CONDIMENCHO / CHIPA",
+    "descripcion": "20% de descuento en todos los productos",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/14.%20CONDIMENCHO.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/condimencho/",
+      "mailto:adriankaplankrep@gmail.com"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "FOTOS DC",
+    "descripcion": "30% de descuento en una sesión fotográfica",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/15%20DC%20F.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:fotosdc1984@gmail.com",
+      "https://wa.me/5491153766647",
+      "https://www.instagram.com/fotos_dc_"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "PALERMO BAGDAD - SALA DE ENSAYO",
+    "descripcion": "15% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/16%20palermo%20bagdad.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/palermobagdad/",
+      "https://wa.me/541136436760"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "FRUTO CAFÉ",
+    "descripcion": "15% de descuento en efectivo",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/17%20frutocafe.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.google.com/maps/search/?api=1&query=Borges%202021%2C%20CABA",
+      "https://www.instagram.com/fruto.cafe/"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "DRA. CAROLINA SADRAS",
+    "descripcion": "25% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/CARO%20SADRAS%20OK%20PGN.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/541150557379"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "SASTRERÍA DETALI",
+    "descripcion": "Descuento sujeto a temporada y prenda",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/38%20detali%20.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/sastreria_detali/",
+      "tel:541166925770"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "MIXTA - LABORATORIO DE DISEÑO",
+    "descripcion": "20% de descuento / CABA + envíos a todo el país",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/39%20mixta.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/mixta_labo/",
+      "mailto:mixtalabo@gmail.com"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "IMP - SOLUCIONES INFORMÁTICAS",
+    "descripcion": "15% de descuento en formateo de PC",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/40%20imp.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "tel:541165058357"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "BERTUCCI ASCENSORES",
+    "descripcion": "10% de descuento en mantenimiento y reparaciones",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/41%20bertucci.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:bertucciascensores@gmail.com",
+      "https://www.instagram.com/ascensores.bertucci/"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "SANTAXITA - PRODUCTOS ARTESANALES CON TELAS BRASILERAS",
+    "descripcion": "10% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/42%20santaxita.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/santaxita/"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "UMMA - INDUMENTARIA DE CAMPO",
+    "descripcion": "10% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/43%20umma.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:alpargatasumma@gmail.com",
+      "https://www.instagram.com/umma.alpargatas/"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "MATT MILLER GUITARS - FABRICACIÓN Y REPARACIÓN DE INSTRUMENTOS DE CUERDAS",
+    "descripcion": "20% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/46%20.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:mattmillerguitars@gmail.com",
+      "https://www.instagram.com/mattmillerguitars"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "REBOUND PRODUCCIONES",
+    "descripcion": "20% DE DESCUENTO EN ESPECTÁCULOS Y CLASES",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/47.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:reboundproducciones@gmail.com",
+      "https://www.instagram.com/reboundproducciones"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "ENKIDU - TALLER DE CERÁMICA",
+    "descripcion": "15% DE DESCUENTO EN LA CUOTA POR 3 MESES",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/48.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/541126444297",
+      "https://www.instagram.com/taller_enkidu/"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "SIGA LA ZORRA - MERCHANDISING Y ARTÍCULOS PERSONALIZADOS",
+    "descripcion": "30% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/49.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/541123980547",
+      "https://www.instagram.com/siga.la.zorra"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "YESAD TATTOO",
+    "descripcion": "20% DE DESCUENTO EN SESIONES DE TATUAJES CABA Y LA PLATA",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/50.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/542216114661",
+      "https://www.instagram.com/yesad.tattoo/"
+    ]
+  },
+  {
+    "zona": "CABA",
+    "titulo": "CLASES DE VIOLÍN BAIRES",
+    "descripcion": "15% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/51.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/541166044751",
+      "https://www.instagram.com/clases.violin.baires"
+    ]
+  },
+  {
+    "zona": "CAMPANA",
+    "titulo": "INSTITUTO GROW UP",
+    "descripcion": "20% de descuento en cursos de inglés (presencial y virtual)",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/19%20grow%20up.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "tel:543489530244",
+      "mailto:growup.schoolofenglish@gmail.com"
+    ]
+  },
+  {
+    "zona": "CÓRDOBACAPITAL",
+    "titulo": "CHIPACERATTI",
+    "descripcion": "20% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/20%20chipaceratti.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:chipaceratti@gmail.com",
+      "https://www.instagram.com/chipaceratti/"
+    ]
+  },
+  {
+    "zona": "CIUDADSANTAFE",
+    "titulo": "JORGE CAPITANELLI - REPARACIÓN Y ARMADO PCS",
+    "descripcion": "Descuentos en reparación de pcs",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/21%20jorge%20capitanelli.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "tel:543424277425"
+    ]
+  },
+  {
+    "zona": "MARDELPLATA",
+    "titulo": "NERDS' COLLEGE",
+    "descripcion": "10% de descuento en la primera cuota mensual",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/22%20nerdes%20college.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:nerdscollege@teacherd.org"
+    ]
+  },
+  {
+    "zona": "PUERTOMADRYN",
+    "titulo": "LAVANDERÍA LAUNDRY CAT",
+    "descripcion": "30% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/23%20laundrycat.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "tel:542804959688",
+      "https://www.instagram.com/lavanderia_laundrycat_madryn?igsi=M2R3bHoycjB1cXhx"
+    ]
+  },
+  {
+    "zona": "GUALEGUAYCHU",
+    "titulo": "LAVANDERÍA SOFIA",
+    "descripcion": "20% de descuento en todos los lavados",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/24%20lavanderia%20sofia.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "tel:543446549822"
+    ]
+  },
+  {
+    "zona": "AMBA",
+    "titulo": "GABRIEL ELECTRICISTA",
+    "descripcion": "50% de descuento en mano de obra",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/32%20GABRIEL%20ELEC.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:gabriel.beceyro@gmail.com",
+      "https://wa.me/541156359047"
+    ]
+  },
+  {
+    "zona": "AMBA",
+    "titulo": "MILTONESAS - MILANESAS VEGANAS CONGELADAS",
+    "descripcion": "15% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/52.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:miltonesas@gmail.com",
+      "https://www.instagram.com/miltonesas/"
+    ]
+  },
+  {
+    "zona": "AMBA",
+    "titulo": "ULISES TATUADOR",
+    "descripcion": "30% DE DESCUENTO EN SESIONES DE TATTOO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/53.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/541156997083",
+      "https://www.instagram.com/ulisesarminio"
+    ]
+  },
+  {
+    "zona": "AMBA",
+    "titulo": "LA ROSARIO CAÑUELAS",
+    "descripcion": "15% DE DESCUENTO EN LECHE Y QUESO DE CABRA",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/54.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/541144409281",
+      "https://www.instagram.com/larosariocanuelas"
+    ]
+  },
+  {
+    "zona": "AMBA",
+    "titulo": "PANTALLAS LED",
+    "descripcion": "10% DE DESCUENTO EN ALQUILERES O VENTAS",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/55.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://pantallasled1.com/",
+      "https://www.instagram.com/pantallasled1/"
+    ]
+  },
+  {
+    "zona": "MENDOZA",
+    "titulo": "CABAÑAS EL PARRALITO",
+    "descripcion": "10% de descuento en alojamiento para 2 personas / 15% por estadías de 3 o más días",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/33%20PARRALITO.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "tel:5492613643162"
+    ]
+  },
+  {
+    "zona": "MENDOZA",
+    "titulo": "JUANA DE PAPEL - DISEÑO GRÁFICO Y PAPELERÍA CREATIVA",
+    "descripcion": "15% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/56.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/542615872501",
+      "https://www.instagram.com/juana.de.papel"
+    ]
+  },
+  {
+    "zona": "MENDOZA",
+    "titulo": "LA RUEDA DE LOS DESEOS - GRUPO DE TEATRO",
+    "descripcion": "2X1 EN TODAS LAS FUNCIONES",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/57.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "mailto:laruedadelosdeseosmendoza@gmail.com",
+      "https://www.instagram.com/laruedadelosdeseos/"
+    ]
+  },
+  {
+    "zona": "BAHIABLANCA",
+    "titulo": "ESTA DADO / TALLER TEXTIL",
+    "descripcion": "10% de descuento + envío sin costo",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/25%20estadado.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/estadado.bb/",
+      "mailto:esta.dado.org@gmail.com"
+    ]
+  },
+  {
+    "zona": "BUENOSAIRES",
+    "titulo": "THE GOOD COOKIE",
+    "descripcion": "10% de descuento",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/44%20the%20good%20cookie.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://www.instagram.com/thegoodcookie.ar/"
+    ]
+  },
+  {
+    "zona": "ROSARIO",
+    "titulo": "LIBROS ENTEOGÉNICOS",
+    "descripcion": "15% de descuento / Rosario + envíos a todo el país",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/43%20libros%20enteo.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://librosenteogenicos.netlify.app/",
+      "https://www.instagram.com/libros.enteogenicos/"
+    ]
+  },
+  {
+    "zona": "ROSARIO",
+    "titulo": "CERÁMICA OLIVERIA",
+    "descripcion": "15% DE DESCUENTO EN TIENDA ONLINE / 10% EN TALLERES",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/58.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://ceramicaoliveria.mitiendanube.com/",
+      "https://www.instagram.com/ceramicaoliveria/"
+    ]
+  },
+  {
+    "zona": "ROSARIO",
+    "titulo": "MAGUI.TUTTOLOMONDO TATTOO",
+    "descripcion": "20% DE DESCUENTO",
+    "imagenUrl": "https://pdb.com.ar/pdb-assets/logo-benefits/59.png",
+    "codigoDescuento": null,
+    "enlaces": [
+      "https://wa.me/543416862507",
+      "https://www.instagram.com/monstra.deco/"
+    ]
+  }
+]
